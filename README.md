@@ -6,22 +6,15 @@
 
 
 # Deskripsi Dataset 
-Dalam penyusunan project ini menggunakan dataset dari [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia), yang terdiri dari
-1. Normal (healthy)
-2. Pneumonia
+Dalam penyusunan project ini menggunakan dataset dari https://challenge.isic-archive.com/data/ 
+yang terdiri dari
+1. train (lesion dan skin)
+2. test (lesion dan skin)
 
 ## Paper referensi
-Aman Dureja & Payal Pahwa (2020) Medical image retrieval for detecting pneumonia using binary classification with deep convolutional neural networks, Journal of Information and Optimization Sciences, 41:6, 1419-1431, DOI: 10.1080/02522667.2020.1809096
-URL : https://www.tandfonline.com/doi/abs/10.1080/02522667.2020.1809096
+Integrity Verification in Medical Image Retrieval Systems using Spread Spectrum Steganography
+URL : https://dl.acm.org/doi/abs/10.1145/3323873.3325020
 
-## Contributor
-1. Ulfah Nur Oktaviana (201810370311261)
-2. Tiara Intana Sari (201810370311235)
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [CNN Tensorflow](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v1/examples/3_NeuralNetworks/convolutional_network.py)
-* [DenseNet Documentation](https://keras.io/api/applications/densenet/)
-* [Keras Documentation of Transfer Learning Model](https://keras.io/api/applications/)
-* [Data AUgmentation Using Tensorflow](https://www.tensorflow.org/tutorials/images/data_augmentation)
+# Anggota Kelompok
+1. Abdulbariq Aldhia Muhammadi (201910370311007)
+2. Annisa Praditha Hutami Putri (201810370311027)
