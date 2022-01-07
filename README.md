@@ -1,7 +1,7 @@
 # SKIN LESION TUGAS BESAR TKC
 
 # Deploy at Heroku
-[Link App Deployment at Heroku](https://cbir-project-for-xray-261-235.herokuapp.com/)
+LINK HEROKU : https://tubestkccbir.herokuapp.com/
 ![Screenshot (362)](https://user-images.githubusercontent.com/64590037/148588685-4a901600-4ee8-4011-913b-942949b35131.png)
 
 ![Screenshot (363)](https://user-images.githubusercontent.com/64590037/148590016-253feae4-78c0-4715-acbc-4ae12d513ca6.png)
