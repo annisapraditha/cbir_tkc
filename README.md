@@ -2,7 +2,8 @@
 
 ## Result after Deploy at Heroku
 [Link App Deployment at Heroku](https://cbir-project-for-xray-261-235.herokuapp.com/)
-![Capture Ret](https://user-images.githubusercontent.com/48962405/144776249-69432ee9-31f8-445a-85d0-84e22eab8c17.PNG)
+![Screenshot (362)](https://user-images.githubusercontent.com/64590037/148588685-4a901600-4ee8-4011-913b-942949b35131.png)
+
 
 ## Deskripsi Dataset 
 Dalam penyusunan project ini menggunakan dataset dari [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia), yang terdiri dari
