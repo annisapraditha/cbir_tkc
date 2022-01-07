@@ -1,11 +1,11 @@
-# X-Ray Pneumonia Project
+# SKIN LESION TUGAS BESAR TKC
 
-## Result after Deploy at Heroku
+# Deploy at Heroku
 [Link App Deployment at Heroku](https://cbir-project-for-xray-261-235.herokuapp.com/)
 ![Screenshot (362)](https://user-images.githubusercontent.com/64590037/148588685-4a901600-4ee8-4011-913b-942949b35131.png)
 
 
-## Deskripsi Dataset 
+# Deskripsi Dataset 
 Dalam penyusunan project ini menggunakan dataset dari [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia), yang terdiri dari
 1. Normal (healthy)
 2. Pneumonia
